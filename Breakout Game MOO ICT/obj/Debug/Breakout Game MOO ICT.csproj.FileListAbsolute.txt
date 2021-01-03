@@ -1,0 +1,9 @@
+C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\Breakout Game MOO ICT\Breakout Game MOO ICT\bin\Debug\Breakout Game MOO ICT.exe.config
+C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\Breakout Game MOO ICT\Breakout Game MOO ICT\bin\Debug\Breakout Game MOO ICT.exe
+C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\Breakout Game MOO ICT\Breakout Game MOO ICT\bin\Debug\Breakout Game MOO ICT.pdb
+C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\Breakout Game MOO ICT\Breakout Game MOO ICT\obj\Debug\Breakout Game MOO ICT.csprojAssemblyReference.cache
+C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\Breakout Game MOO ICT\Breakout Game MOO ICT\obj\Debug\Breakout_Game_MOO_ICT.Form1.resources
+C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\Breakout Game MOO ICT\Breakout Game MOO ICT\obj\Debug\Breakout_Game_MOO_ICT.Properties.Resources.resources
+C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\Breakout Game MOO ICT\Breakout Game MOO ICT\obj\Debug\Breakout Game MOO ICT.csproj.GenerateResource.cache
+C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\Breakout Game MOO ICT\Breakout Game MOO ICT\obj\Debug\Breakout Game MOO ICT.exe
+C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\Breakout Game MOO ICT\Breakout Game MOO ICT\obj\Debug\Breakout Game MOO ICT.pdb
